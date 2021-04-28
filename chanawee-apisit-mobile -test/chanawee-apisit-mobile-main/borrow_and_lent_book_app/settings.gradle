@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "borrow_and_lent_book_app"
