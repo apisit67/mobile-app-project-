@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">borrow_and_lent_book_app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_name_thai">ยืมอ่าน</string>
+
+    <string name="login">Login</string>
+    <string name="or_sign_up">OR</string>
+    <string name="login_with_google">continue with google</string>
+
+    <string name="error_with_password">Password must contain at least 8 characters.</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="searchtext">ค้นหาหนังสือที่นี่...</string>
+    <string name="shr_app_name">book</string>
+    <string name="borrowbutton">ยืมหนังสือ</string>
+
+    <string name="book_name">ผ่าโจทย์ 1000 ข้อสอบ </string>
+    <string name="lorem_text">An exam is a formal test that you take to show your knowledge or ability in a particular subject, or to obtain a qualification.
+    If you have a medical exam, a doctor looks at your body, feels it, or does simple tests in order to check how healthy you are.
+    </string>
+
+</resources>
